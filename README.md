@@ -22,10 +22,10 @@ source "$BASH_IT"/bash_it.sh
 source "$BASH_IT_CUSTOM"/bash-it-customizations.sh
 ````
 
-Author
+Contributors
 ------
 
-[Giovanni Bassi](https://github.com/giggio)
+See them [here](https://github.com/Lambda3/bashscripts/graphs/contributors).
 
 License
 -------
