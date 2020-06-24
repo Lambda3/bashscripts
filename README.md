@@ -11,7 +11,7 @@ Installation
 * Install Bash-it
 * Clone this repo to ~/bashscripts:
 ````bash
-  git clone --recurse-submodules https://github.com/giggio/bashscripts
+  git clone --recurse-submodules https://github.com/lambda3/bashscripts
 ````
 * Add these 3 lines to the end of your `~/.bashrc` or `~/.bash_profile` (the
   `.bash_it.sh` should already be there):
